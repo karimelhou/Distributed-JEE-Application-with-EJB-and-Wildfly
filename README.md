@@ -48,21 +48,16 @@ List the prerequisites or requirements to run this project. For example:
 
 ## Built With
 
-Java EE: Enterprise JavaBeans (EJB) and Java EE technologies for backend development.
-Wildfly: The application is deployed and run on the Wildfly application server.
-MySQL: A MySQL database is used to store and manage data.
-Java Servlets: Java servlets are employed for handling client-server interactions.
-Java Naming and Directory Interface (JNDI): JNDI is used for communication between the client and EJBs.
-Java Transaction API (JTA): JTA is used for transaction management.
-Authentication and Security: Appropriate measures for authentication and security are implemented.
+- Java EE: Enterprise JavaBeans (EJB) and Java EE technologies for backend development.
+- Wildfly: The application is deployed and run on the Wildfly application server.
+- MySQL: A MySQL database is used to store and manage data.
+- Java Servlets: Java servlets are employed for handling client-server interactions.
+- Java Naming and Directory Interface (JNDI): JNDI is used for communication between the client and EJBs.
+- Java Transaction API (JTA): JTA is used for transaction management.
+- Authentication and Security: Appropriate measures for authentication and security are implemented.
 
 ## Authors
 
 ELHoumaini Karim , Master's Degree Student 
 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
