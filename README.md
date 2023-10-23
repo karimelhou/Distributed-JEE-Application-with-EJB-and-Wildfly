@@ -41,10 +41,12 @@ In conclusion, the development of this EJB-based web application serves as an ex
 
 ## Prerequisites
 
-List the prerequisites or requirements to run this project. For example:
-- Java Development Kit (JDK)
-- Wildfly Application Server
-- MySQL Database
+- Java Development Kit (JDK): Ensure you have JDK installed to compile and run the application.
+- Wildfly Application Server: Download and set up the Wildfly application server for deployment.
+- MySQL Database: You'll need a MySQL database instance to store and manage application data.
+- Integrated Development Environment (IDE): An IDE like IntelliJ IDEA or Eclipse is recommended for development.
+- Git: If you plan to clone the project from a repository, you'll need Git installed.
+- Web Browser: For testing the web application, a web browser is required.
 
 ## Built With
 
