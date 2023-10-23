@@ -27,16 +27,17 @@ In conclusion, the development of this EJB-based web application serves as an ex
 
 ## Features
 
-Distributed JEE Application: Build a distributed Java EE (JEE) application that utilizes Enterprise JavaBeans (EJB) technology.
-Backend EJB Application: Create a robust backend application that encapsulates business logic using EJBs.
-Client-Server Communication: Implement communication between the client and server using Java Naming and Directory Interface (JNDI).
-Entity Class and Beans: Define entity classes and EJB beans to manage and interact with data.
-Wildfly Application Server: Deploy and run the application on the Wildfly application server.
-Database Integration: Integrate with a MySQL database to store and manage data.
-Java Servlets: Develop Java servlets for various functions within the application.
-Connection Pooling: Utilize connection pooling for efficient database connections.
-Authentication and Security: Implement authentication and security measures to protect the application.
-JTA and Datasource Configuration: Use Java Transaction API (JTA) for transaction management and configure a datasource for the database.
+- Build a distributed Java EE (JEE) application.
+- Utilize Enterprise JavaBeans (EJB) technology.
+- Create a robust backend application that encapsulates business logic using EJBs.
+- Implement communication between the client and server using Java Naming and Directory Interface (JNDI).
+- Define entity classes and EJB beans to manage and interact with data.
+- Deploy and run the application on the Wildfly application server.
+- Integrate with a MySQL database to store and manage data.
+- Develop Java servlets for various functions within the application.
+- Utilize connection pooling for efficient database connections.
+- Implement authentication and security measures to protect the application.
+- Use Java Transaction API (JTA) for transaction management and configure a datasource for the database.
 
 ## Prerequisites
 
